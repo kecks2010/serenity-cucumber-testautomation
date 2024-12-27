@@ -33,8 +33,8 @@ And now, you have to install the project to your local maven repository.
 
 The preconditions are ready, so that you can continue with test automation project.
 
-## Serenity-Tests
-After the installation of the testdata project, you can clone the serenity test automation project.
+## Serenity-Cucumber-Tests
+After the installation of the testdata project, you can clone the serenity-cucumber test automation project.
 
     cd <project_folder>
     git clone https://github.com/kecks2010/serenity-cucumber-testautomation.git
