@@ -1,4 +1,4 @@
-# Serenity Testautomation
+# Serenity Cucumber Testautomation
 
 This is an example implementation of a serenity test automation for this [Test Shopsystem](https://www.askomdch.com).
 
